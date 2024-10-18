@@ -32,6 +32,7 @@ the food delivery industry "Food Delivery system".
 ###Projects
 
 -Hotel Mangment system project in Java
+
 -A simple website with login and register(HTML,CSS,JavaScript)
 
 ###Curses
