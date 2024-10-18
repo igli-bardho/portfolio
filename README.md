@@ -1,7 +1,11 @@
 #Igli Bardho
+
 -Tirana,Albania
+
 -iglibardho@gmail.com
+
 -+355675627601
+
 -Date Of Birth: 28.01.1999
 
 I finished my studies at the University of Tirana, Faculty of Natural Sciences, majoring in Informatics.
