@@ -43,7 +43,11 @@ the food delivery industry "Food Delivery system".
 -Good teamwork, collaborative,friendly.
 
 -Full Dedication to the tasks given to me.
+
 -Attentive to details.
+
 -Proficient in Java, html,css,JavaScript,SQL.
+
 -Problem solving.
+
 -Intermediate English skills.
